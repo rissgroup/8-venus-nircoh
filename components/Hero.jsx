@@ -39,7 +39,7 @@ export default function Hero() {
             loop
             className="w-96"
           >
-            <source src="/assets/image-from.mp4" type="video/mp4" />
+            <source src="/assets/card.mp4" type="video/mp4" />
           </video>
         </div>
       </div>
